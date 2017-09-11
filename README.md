@@ -7,8 +7,8 @@ Se você optar em usar o Visual Studio Code, será bem simples de configurar o a
 #### Antes de tudo.....
 Há necessidade de instalar:
 
-* Node.Js [AQUI](https://nodejs.org/en/)
-* TypeScript [AQUI](https://www.typescriptlang.org/) 
+* Node.Js: [LINK - AQUI](https://nodejs.org/en/)
+* TypeScript: [LINK - AQUI](https://www.typescriptlang.org/) 
 
 Assim que segue os links acima!! ;)
 

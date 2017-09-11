@@ -5,7 +5,12 @@
 Se você optar em usar o Visual Studio Code, será bem simples de configurar o ambiente.
 
 #### Antes de tudo.....
-Há necessidade de instalar Node.Js e TypeScript!!! Assim que segue os links acima!! ;)
+Há necessidade de instalar:
+
+* Node.Js [AQUI](https://nodejs.org/en/)
+* TypeScript [AQUI](https://www.typescriptlang.org/) 
+
+Assim que segue os links acima!! ;)
 
 #### 1º Passo:
 Vá até a página do Visual [Studio Code](https://code.visualstudio.com/docs/languages/typescript) -> Docs - Languages -> TypeScript -> tsconfig.json (conforme segue a imagem abaixo):

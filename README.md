@@ -22,20 +22,17 @@ Depois basta copiar as informações inerentes ao arquivo: **tsconfig.json**
 
 #### 3º Passo:
 Abre o seu Visual Studio Code e crie na raiz do projeto o arquivo: **tsconfig.json** e logo em seguida copie
-as informações copiadas no site do Visual Studio Code e Salve o arquivo. (conforme segue a imagem abaixo):
+as informações copiadas no site do Visual Studio Code e Salve o arquivo.
 
-![alt tag](http://i.imgsafe.org/15ddcee15c.png)
 
 #### 4º Passo:
 Depois de ter criado o arquivo tsconfig.json, clique nos botões: Crtl + Shift + P e digite: 'configure' e escolha a 
-opção 'Configure Task Runner':
+opção 'Configure Task Runner'
 
- ![alt tag](http://i.imgsafe.org/15e739a792.png)
 
 #### 5º Passo:
 E finalmente, depois que escolher a opção do 4º passo, basta escolher a opção: 'TypeScript - tsconfig.json'
 
-![alt tag](http://i.imgsafe.org/15f0fd559f.png)
 
 Após isso criará um arquivo de configuração para usar o TypeScript no Visual Studio Code (pasta .vscode).
 
@@ -47,9 +44,8 @@ Studio Code integrado basta ir até o diretório do arquivo e digitar o seguinte
 > node [nome-do-arquivo] || Ex.: -> node animal
 ```
 
-![alt tag](http://i.imgsafe.org/1606eec388.png)
-
 
 ## Dúvidas?!
 
 Se tiverem alguma dúvida referente ao código feito ou para configurar o ambiente basta criar uma Issue aqui no GitHub que estarei respondendo a vocês!! :D :D 
+De qualquer forma estou disponibilizando aqui um vídeo, a qual mostra o passo-a-passo como realizar a configuração no VS Code. Link do video: [AQUI](https://www.youtube.com/watch?v=DwEJEVVqFVw&t=23s&list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob&index=2)

@@ -48,5 +48,5 @@ class PessoaFisica extends Pessoa1 {
   }
 }
 
-let estudante = new PessoaFisica("Glaucia", "Lemos", 30, "glaucia@xpto.com", 5, 1000, true, "111.111.111-11", "00.000-0");
-estudante.dadosCompletosPessoaFisica();
+let pessoaFisica = new PessoaFisica("Glaucia", "Lemos", 30, "glaucia@xpto.com", 5, 1000, true, "111.111.111-11", "00.000-0");
+pessoaFisica.dadosCompletosPessoaFisica();

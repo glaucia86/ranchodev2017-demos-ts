@@ -17,7 +17,7 @@ function dadosFuncionario(
     console.log("Tempo de Empresa....: " + tempoEmpresa);
 }
 
-dadosFuncionario("Glaucia", "Lemos", 30, "glaucia@xpto.com" , true, 1000, "Não sei....");
+dadosFuncionario("Glaucia", "Lemos", 30, "glaucia@xpto.com" , true, 1000, 5);
 
 
 /**

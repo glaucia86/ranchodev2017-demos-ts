@@ -17,7 +17,6 @@ class Pessoa1 {
 }
 
 class PessoaFisica extends Pessoa1 {
-  
 
   constructor(
     nome: string,

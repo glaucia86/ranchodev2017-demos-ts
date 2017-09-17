@@ -1,6 +1,6 @@
 ## Demos - Rancho Dev 2017: Introdução à TypeScript & Features 2.x:
 
-**p.s.: deseja tirar um certificado desse curso?! O Curso também está disponível na plataforma da UDEMY[AQUI](https://www.udemy.com/curso-typescript-para-desenvolvedores-c)**
+**p.s.: deseja tirar um certificado desse curso?! O Curso também está disponível na plataforma da UDEMY - [AQUI](https://www.udemy.com/curso-typescript-para-desenvolvedores-c)**
 
 ### Configuração do Ambiente de Desenvolvimento:
 
